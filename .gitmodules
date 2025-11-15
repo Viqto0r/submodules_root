@@ -7,3 +7,6 @@
 [submodule "submodules/module_3"]
 	path = submodules/module_3
 	url = https://github.com/Viqto0r/submodules_module_3.git
+[submodule "submodules/module_4"]
+	path = submodules/module_4
+	url = https://github.com/Viqto0r/submodules_module_4.git
