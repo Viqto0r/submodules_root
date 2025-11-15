@@ -1,0 +1,9 @@
+[submodule "submodules/module_1"]
+	path = submodules/module_1
+	url = https://github.com/Viqto0r/submodules_module_1.git
+[submodule "submodules/module_2"]
+	path = submodules/module_2
+	url = https://github.com/Viqto0r/submodules_module_2.git
+[submodule "submodules/module_3"]
+	path = submodules/module_3
+	url = https://github.com/Viqto0r/submodules_module_3.git
